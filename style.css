@@ -204,7 +204,7 @@ body {
   transform: translate(-10%, 1%) rotateY(40deg) rotateX(-60deg);
 }
 .flower__leaf--2 {
-  transform: translate(-50%, -3%) rotateY(20deg) rotateX(-50deg);
+  transform: translate(-50%, 0%) rotateY(20deg) rotateX(-50deg);
 }
 .flower__leaf--3 {
   transform: translate(-90%, 0%) rotateY(40deg) rotateX(60deg);
@@ -1986,4 +1986,5 @@ body {
     opacity: 1;
   }
 }
+
 
